@@ -7,25 +7,22 @@
   <img src="https://img.shields.io/badge/Clean-Code-black" />
 </p>
 
-Personal portfolio website showcasing my frontend skills and real-world layout experience.
-
 ---
 
-## 🚀 Live Demo
-👉 **https://yainsykt-ux.github.io/portfolio/**
+## 🚀 Live Portfolio
+👉 [View Portfolio](https://yainsykt-ux.github.io/portfolio/)
 
 ---
 
 ## 🧩 About Me
-Frontend developer with strong HTML and CSS skills.  
-I build clean, responsive websites, convert Figma designs into code  
-and quickly fix layout issues.
+I am a **Frontend Developer** specialized in **clean, responsive, pixel-perfect websites**.  
+I convert Figma/PSD designs into working websites, fix layout issues, and write **clean, maintainable HTML/CSS**.
 
-I focus on:
-- Clean & semantic HTML
-- Modern CSS (Flexbox, Grid)
-- Responsive design
-- Fast delivery
+**I can help you with:**
+- Landing pages / small business websites  
+- Converting Figma designs to HTML/CSS  
+- Layout fixes and responsive design  
+- Clean, readable code with attention to detail
 
 ---
 
@@ -35,38 +32,58 @@ I focus on:
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Flexbox-Layout-informational" />
   <img src="https://img.shields.io/badge/Grid-Layout-informational" />
+  <img src="https://img.shields.io/badge/Responsive-Design-success" />
 </p>
 
-- Responsive Design
-- Cross-browser compatibility
-- Clean and readable code
-- Pixel-perfect layout
+- HTML5 / CSS3  
+- Flexbox / Grid  
+- Responsive design (Mobile / Tablet / Desktop)  
+- Cross-browser compatibility  
+- Pixel-perfect layout  
+- Semantic, clean, maintainable code
 
 ---
 
 ## 📂 Projects
-- **Business Landing Page** — responsive commercial website  
-- **Figma to HTML** — pixel-perfect layout from design  
-- **Layout Fixes** — CSS bug fixing & refactoring
 
-Each project includes:
-- ✔ Responsive layout  
-- ✔ Clean HTML/CSS  
-- ✔ Live demo  
+### 1️⃣ Business Landing Page
+**Description:** Responsive commercial landing page  
+**Tech:** HTML, CSS, Flexbox/Grid  
+**Preview:**  
+![Business Landing Page](assets/images/project1.png)  
+[Live Demo](https://yainsykt-ux.github.io/portfolio/) | [GitHub](https://github.com/yainsykt-ux/portfolio)
 
 ---
 
-## 🧪 Technologies
-- HTML5
-- CSS3
-- Git & GitHub
+### 2️⃣ Figma to HTML
+**Description:** Pixel-perfect conversion from Figma design  
+**Tech:** HTML, CSS, Grid  
+**Preview:**  
+![Figma to HTML](assets/images/project2.png)  
+[Live Demo](https://yainsykt-ux.github.io/portfolio/) | [GitHub](https://github.com/yainsykt-ux/portfolio)
+
+---
+
+### 3️⃣ Layout Fixes
+**Description:** CSS bug fixing & layout improvements  
+**Tech:** HTML, CSS, Flexbox  
+**Preview:**  
+![Layout Fixes](assets/images/project3.png)  
+[Live Demo](https://yainsykt-ux.github.io/portfolio/) | [GitHub](https://github.com/yainsykt-ux/portfolio)
 
 ---
 
 ## 📬 Contact
+I’m available for freelance projects on **Upwork / Fiverr**.  
+
 - 📧 Email: yainsykt@gmail.com  
 - 💬 Telegram: **https://t.me/vborshov**  
+- 🌐 Portfolio: [Live Demo](https://yainsykt-ux.github.io/portfolio/)
 
 ---
 
-⭐ If you like this portfolio — feel free to star the repository!
+⭐ **Why hire me?**
+- Fast and clean delivery  
+- Attention to detail  
+- Experienced with responsive layouts  
+- Friendly and reliable communication
