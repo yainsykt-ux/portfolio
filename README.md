@@ -64,8 +64,8 @@ Each project includes:
 ---
 
 ## 📬 Contact
-- 📧 Email: your@email.com  
-- 💬 Telegram: @username  
+- 📧 Email: yainsykt@gmail.com  
+- 💬 Telegram: **https://t.me/vborshov**  
 
 ---
 
